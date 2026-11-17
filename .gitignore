@@ -1,0 +1,21 @@
+# Windows system file
+desktop.ini
+
+# Local-only READMEs (full file maps); the README.md files are the online versions
+README.local.md
+
+# Not ours to publish: copyrighted textbooks, instructor exams, course handouts and notes
+Textbooks/
+Course notes/
+Final project/Individual - TWR control design/prompts and past exams/
+
+# Earlier Python attempt; code and data come from a third-party repo
+Final project/Group - Kalman channel prediction/Archived code/
+
+# Word/PowerPoint copies of files that are also kept as PDFs
+Final project/Individual - TWR control design/report/Fanghsin_Li_ClassicalControl_Final.docx
+Final project/Individual - TWR control design/report/Final Design version Controller.docx
+Final project/Group - Kalman channel prediction/Channel_Prediction_with_Kalman_Filter.pptx
+
+# Old draft (the final version is kept)
+Final project/Individual - TWR control design/report/Design version Controller(final_first).pdf
